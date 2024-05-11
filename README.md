@@ -1,4 +1,4 @@
-# A Basic Internet Model
+# Internet Model
     -> Made By:-
          Group 7
          Dhruv Kukreja (2021CSB1084)
